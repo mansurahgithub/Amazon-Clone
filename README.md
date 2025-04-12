@@ -1,5 +1,5 @@
 # Amazon-Clone
-Check out my Amazon Frontend Clone! 🌟 Built with HTML/CSS, it captures that classic Amazon look. Take a chill stroll through its virtual aisles for a hands-on feel of responsive design. Perfect for your portfolio—no complicated backend stuff, just frontend vibes! 🚀
+Check out my Amazon Frontend Clone! Built with HTML/CSS, it captures that classic Amazon look. Take a chill stroll through its virtual aisles for a hands-on feel of responsive design.
 # How My Clone Looks like:
 
 <img width="960" alt="image" src="https://github.com/mansurahgithub/Amazon-Clone/assets/118646646/febbfbc6-a65f-4401-a0b3-87c47beda060">
